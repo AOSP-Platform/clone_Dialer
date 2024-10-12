@@ -1,6 +1,6 @@
 ## Clone AOSP platform_packages_apps_Dialer
 
-This is the build script to build AOSP Dialer app outside the AOSP source tree using gradle.
+This is the repository to build AOSP Dialer app outside the AOSP source tree using gradle.
 
 
 
